@@ -3,7 +3,7 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../../../../tmp/jekyll-remote-theme-20220306-2194-jpfkff/_sass/main.scss"
+		"../../../../../tmp/jekyll-remote-theme-20220306-2248-gdt5fl/_sass/main.scss"
 	],
 	"sourcesContent": [
 		"@import \"main\";\n",
