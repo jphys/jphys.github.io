@@ -2,6 +2,7 @@
 # General Site Settings
 
 menu:
+- {name: 'personal', url: 'blog'}
 - {name: 'projects', url: 'projects'}
 - {name: 'contact',  url: 'contact'}
 
